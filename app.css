@@ -1,0 +1,34 @@
+
+body{
+  background-image: url(https://scontent-lht6-1.cdninstagram.com/vp/d8ec2ff58332568e140406e65f69d720/5E4ED540/t51.2885-15/e35/p1080x1080/75397676_180192733112618_6597832072354339397_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;_nc_cat=102);
+  background-size:cover;
+  background-position: center;
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
+html{
+  height: 100%
+}
+  #content{
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+               0px 8px 13px rgba(0,0,0,0.1),
+               0px 18px 23px rgba(0,0,0,0.1);
+
+}
+h1{
+  font-weight: 700;
+  font-size: 5em;
+}
+hr{
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+/*
+<img alt="Image may contain: one or more people, sky, swimming, outdoor and water" class="FFVAD" decoding="auto" sizes="478px" srcset="https://scontent-lht6-1.cdninstagram.com/vp/9cc45e93dbf4d4175f8eae811fe518dd/5E518CA5/t51.2885-15/sh0.08/e35/p640x640/75397676_180192733112618_6597832072354339397_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;_nc_cat=102 640w,https://scontent-lht6-1.cdninstagram.com/vp/5c04d07aadf566ca7cc0b825aada8f48/5E891EA5/t51.2885-15/sh0.08/e35/p750x750/75397676_180192733112618_6597832072354339397_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;_nc_cat=102 750w,https://scontent-lht6-1.cdninstagram.com/vp/d8ec2ff58332568e140406e65f69d720/5E4ED540/t51.2885-15/e35/p1080x1080/75397676_180192733112618_6597832072354339397_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;_nc_cat=102 1080w" src="https://scontent-lht6-1.cdninstagram.com/vp/d8ec2ff58332568e140406e65f69d720/5E4ED540/t51.2885-15/e35/p1080x1080/75397676_180192733112618_6597832072354339397_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;_nc_cat=102" style="object-fit: cover;"> */
+/* <img src="https://postfiles.pstatic.net/MjAxOTA0MTVfMTE5/MDAxNTU1MzMxODI4MDky.SoRNH1D5qhZc1uFUGI5_P6b4wNockExK0B655gC9fq4g.dyP-_1l7qnLB9J-Mrs0jtr5C9FQwJQjaywhoRDGUsL8g.JPEG.gon2kk/DSC05555.jpg?type=w966" alt="">
+
+<img src="https://postfiles.pstatic.net/MjAxOTA1MjVfMTYz/MDAxNTU4NzY4NDMxNjU3.niOWzzWEomm8ZD4psZXU7Zfg5-d888eeaUql9_s0ucUg.dXuqXkOhjR3UcwZ5TWQ92JjAsbaGHB8q93fScX5hM8sg.JPEG.gon2kk/DSC00167.jpg?type=w966" alt=""> */
